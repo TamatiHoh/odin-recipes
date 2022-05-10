@@ -1,0 +1,9 @@
+h1{
+    background-color: orangered;
+    text-align: center;
+    border-radius: 30px;
+}
+
+li{
+    font-variant: small-caps;
+}

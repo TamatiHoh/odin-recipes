@@ -1,0 +1,14 @@
+h1{
+    background-color: aqua;
+    border-radius: 30px;
+}
+
+img{
+    border: 3px;
+    border-color: purple;
+    border-radius: 5px;
+}
+
+ul li{
+    text-align: center;
+}
